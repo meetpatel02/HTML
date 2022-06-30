@@ -1,0 +1,29 @@
+.box{
+     border:2px solid black;
+     border-radius: 20px;
+     width: 400px;
+     height: 300px;
+     margin: auto;
+     margin-top: 10px;
+     box-shadow: 10px 5px 5px  black;
+}
+.form{
+     border-radius: 5px;
+     text-align: center;
+     margin-top: 92px;
+}
+img{
+     display: block;
+     width: 400px;
+     margin-left: auto;
+     margin-right: auto;
+}
+/* p{
+     font-size: 100px;
+} */
+.par p {
+     font-size: 200px;
+}
+.par h4{
+     padding: 0;
+}
